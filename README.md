@@ -7,7 +7,9 @@ A comprehensive machine learning implementation using **K-Nearest Neighbors (KNN
 ## Project Folder Structure
 
 PUBG Aggressive Fragger vs. Passive Looter Classifier/
+  |
   ├── pubg_playstyle_knn.ipynb       # main notebook file
+  |
   └── data.csv    # dataset file
 
 ## 1. Project Overview & Problem Statement
